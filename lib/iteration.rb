@@ -43,7 +43,7 @@ def total_even_pairs(src)
   # the number was even. Review the operator documentation if you've forgotten
   # this!
   
-  result = []
+  total = 0
   if number src[0], scr[1]: even do
     
 end
