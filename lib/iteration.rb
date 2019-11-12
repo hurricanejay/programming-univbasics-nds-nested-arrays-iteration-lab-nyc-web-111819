@@ -44,6 +44,6 @@ def total_even_pairs(src)
   # this!
   
   total = 0
-  if number src[0], scr[1]: even do
+  while i number src[0], scr[1]: even do
     
 end
